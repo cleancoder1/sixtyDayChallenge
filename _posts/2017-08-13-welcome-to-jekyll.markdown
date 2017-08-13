@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Goal Statement"
-date:   2017-08-13 10:29:18 -0500
-categories: jekyll update
----
-
-Goal is to be at 165 pounds from 151 pounds , and reduce my body fat % from 16 to 9 or below
