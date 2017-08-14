@@ -1,0 +1,12 @@
+---
+layout: page
+title: Express Entry
+
+---
+
+
+{% for item in site.expressEntry %}
+<li>
+    <a href="{{site.url}}{{site.baseurl}}{{ item.url }}">{{ item.title }}</a>
+</li>
+{% endfor %}

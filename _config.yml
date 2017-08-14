@@ -30,6 +30,8 @@ collections:
   sixtyDayChallenge:
     output: true
 
+  expressEntry:
+    output: true
 
 gems:
   - jekyll-feed
