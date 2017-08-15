@@ -8,3 +8,4 @@ published: true
 ---
 
 * Will do a practise ielets test and go through listening ,reading , writing .
+* need to book for hotel and car for friday
