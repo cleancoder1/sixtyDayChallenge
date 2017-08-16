@@ -10,4 +10,4 @@ categories: jekyll update
 
 * Goal is to create express entry profile and get invitation 
 
-* Hydaration goal is to drink 2 bottles of 40 oz.
+* Hydration goal is to drink 2 bottles of 40 oz.

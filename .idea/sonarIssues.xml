@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/java/com/ddia/application/authentication/DDIAWebUserDetailsAuthenticationProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/java/com/ddia/application/authentication/LoginSuccessHandler.java">
           <value>
             <set />
@@ -48,12 +53,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/java/com/ddia/persistence/repository/user/LoggedInUserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/java/com/ddia/persistence/repository/user/UserProfileQueryRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/java/com/ddia/view/controller/EmployerBillingController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/java/com/ddia/view/controller/rest/ProviderSearchRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/java/com/ddia/view/service/EligibilityBenefitsPdfService.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/resources/ddia-test.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/resources/log4j2-dev.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/resources/log4j2-local.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/resources/log4j2-prod.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ddia-web-portal/src/main/resources/log4j2-test.xml">
           <value>
             <set />
           </value>
@@ -83,7 +128,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/_expressEntry/Day5_AUg16.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/_posts/2017-08-13-goals.markdown">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/_posts/2017-08-15-ieletsCheckList.markdown">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/_sixtyDayChallenge/DAY5_AUG16.md">
           <value>
             <set />
           </value>

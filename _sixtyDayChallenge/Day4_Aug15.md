@@ -7,5 +7,15 @@ published: true
 
 ---
 
-* Got lunch for day
+* Got lunch to work
+* Water goal reached
 
+#Food journal
+* Kind Bar
+* chicken sandwitch
+* Strawberry Bananaa smoothie
+* kadai panner
+
+
+# work out journal
+* Half mile run on treadmill.

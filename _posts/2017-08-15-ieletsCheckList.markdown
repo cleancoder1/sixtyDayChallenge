@@ -11,7 +11,7 @@ categories: jekyll update
 * Booking hotel
 * Renting car
 * watch
-* Food , water ( clear water bootle no label)
+* Food , water ( clear water bottle no label)
 * nikki  contacting her
-* Eye glasses /sun glasses
+* Eye glasses /sun glasses /Cleaning stuff
 * energy drinks
